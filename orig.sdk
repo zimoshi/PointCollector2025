@@ -1,0 +1,4 @@
+#/bin/zsh
+echo "sdk1 pointcll2025.py com.aboringai.pointcll2025 start" >> /dev/null
+/usr/local/bin/python3.13 /Volumes/256GB/mygms/pointcll2025.py
+echo "sdk1 pointcll2025.py com.aboringai.pointcll2025 ended" >> /dev/null
